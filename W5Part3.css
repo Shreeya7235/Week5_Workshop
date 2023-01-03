@@ -1,0 +1,42 @@
+.Third_main{
+    padding: 20px;
+    height: 650px;
+    width: 85%;
+    color: rgb(20, 87, 113);
+}
+
+#h{
+    text-align: center;
+    color: rgb(72, 3, 3);
+}
+.Card_box{
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+}
+
+.card{
+    height: 650px;
+    width: 350px;
+
+}
+.card:hover{
+    transform: scale(1.05);
+    transition-duration: 1s;
+}
+
+#card_img{
+    height: 550px;
+    width: 90%;
+    object-fit: cover;
+}
+.card_detail{
+    text-align: center;
+
+}
+#card_parag{
+    font-size: 22px;
+}
+body{
+    background-color: darkgrey;
+}

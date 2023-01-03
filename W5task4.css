@@ -1,0 +1,30 @@
+.main{
+    height: 800px;
+    width: 120%;
+    background-color:rgb(126, 124, 182);
+    display: flex;
+    color: rgb(8, 8, 0);
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    
+}
+#imgfourth{
+    height: 800px;
+    width: 45%;
+    object-fit: cover;
+}
+.list{
+    width: 50%;
+}
+ul {
+    margin-top: 220px;
+    margin-left: 55px;
+
+}
+li{
+    list-style-type: none;
+    font-size: 29px;
+    padding: 12px;
+}
